@@ -1,0 +1,11 @@
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\bin\Debug\netcoreapp2.1\UvodTest.deps.json
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\bin\Debug\netcoreapp2.1\UvodTest.runtimeconfig.json
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\bin\Debug\netcoreapp2.1\UvodTest.runtimeconfig.dev.json
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\bin\Debug\netcoreapp2.1\UvodTest.dll
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\bin\Debug\netcoreapp2.1\UvodTest.pdb
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\obj\Debug\netcoreapp2.1\UvodTest.csprojAssemblyReference.cache
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\obj\Debug\netcoreapp2.1\UvodTest.csproj.CoreCompileInputs.cache
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\obj\Debug\netcoreapp2.1\UvodTest.AssemblyInfoInputs.cache
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\obj\Debug\netcoreapp2.1\UvodTest.AssemblyInfo.cs
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\obj\Debug\netcoreapp2.1\UvodTest.dll
+c:\users\mirmade017\source\repos\UvodTest\UvodTest\obj\Debug\netcoreapp2.1\UvodTest.pdb
